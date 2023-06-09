@@ -1,6 +1,8 @@
 title: "听雨轩"
 author: "Page Guo"
-description: Page Guo All Rights Reserved. <a href="https://github.com/niklasbuschmann/contrast">Jekyll Theme Contrast</a>
+description: >
+  Page Guo All Rights Reserved. 
+  <a href="https://github.com/niklasbuschmann/contrast">Jekyll Theme Contrast</a>
 permalink: /:title/
 lang: "en"
 excerpt_separator: "\n\n\n"
