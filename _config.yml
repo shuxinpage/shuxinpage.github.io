@@ -1,6 +1,6 @@
 title: "听雨轩"
 author: "Page Guo"
-description: "Powered by [Jekyll Theme - Contrast](niklasbuschmann.github.io/contrast/)"
+description: Powered by [Jekyll Theme - Contrast](niklasbuschmann.github.io/contrast/)
 permalink: /:title/
 lang: "en"
 excerpt_separator: "\n\n\n"
@@ -17,6 +17,7 @@ minimal: false             # use a dark header
 
 navigation:                # accepts {file, title, url, icon, sidebaricon}
   - {file: "index.html", title: "Home"}
+  - {file: "", title: "Research"}
   - {file: "README.md", title: "About"}
 
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
