@@ -15,3 +15,13 @@ Master of Engineering Management
 B.S in Cognitive Science
 - UC Davis
 - 2021
+
+## Reserach Interests
+
+- Information Systems Management
+- AI for Health Informatics
+- AI for Medical Science
+
+## CV
+
+Here is a PDF version of [*Peiqi Guo CV 2023upate*](/Peiqi%20Guo%20CV%202023upate.pdf)
