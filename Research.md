@@ -6,8 +6,8 @@ layout: page
 
 ## About me
 
-Master of Information System Management
-&
+Master of Information System Management  
+&  
 Master of Engineering Management
 - WUSTL
 - Expected Graduate: 2023 December
@@ -21,7 +21,8 @@ B.S in Cognitive Science
 - Information Systems Management
 - AI for Health Informatics
 - AI for Medical Science
+- Cognitive Science & Brain Science
 
 ## CV
 
-Here is a PDF version of [*Peiqi Guo CV 2023upate*](/Peiqi%20Guo%20CV%202023upate.pdf)
+Here is a PDF version of [*Peiqi Guo CV 2023 updated*](/Peiqi%20Guo%20CV%202023upate.pdf)
