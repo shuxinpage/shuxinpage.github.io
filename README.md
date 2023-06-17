@@ -7,5 +7,3 @@ layout: page
 ## About this website
 
 This website is create by Page Guo. I will write down and share my thoughts with friends all over the world.
-
-readme md file

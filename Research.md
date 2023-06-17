@@ -3,7 +3,9 @@ title: "Research"
 layout: page
 ---
 
+<!--
 [中文](/_research/research_cn.md)
+-->
 
 ## About me
 
