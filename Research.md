@@ -4,7 +4,7 @@ permalink: "/research/"
 layout: page
 ---
 
-[中文](/_cnposts/research_cn.md)
+[中文](/cnposts/research_cn.md)
 
 ## About me
 
