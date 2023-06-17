@@ -33,3 +33,6 @@ comments:
 
 plugins:
  - jekyll-feed
+
+include:
+  - ['research']
