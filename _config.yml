@@ -24,6 +24,7 @@ include:
 navigation:                # accepts {file, title, url, icon, sidebaricon}
   - {title: "Home", file: "index.html"}
   - {title: "Research", file: "Research.md"}
+  - {title: "Archive", file: "archive.html"}
   - {title: "About", file: "About.md"}
 
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
@@ -36,5 +37,7 @@ comments:
 #  isso_domain: ""         # see https://posativ.org/isso/
 
 plugins:
- - jekyll-feed
+  - jekyll-feed
 
+header_pages:
+  - README.md
