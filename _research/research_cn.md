@@ -1,6 +1,5 @@
 ---
 title: "学术研究"
-permalink: "/research_cn/"
 layout: page
 ---
 
