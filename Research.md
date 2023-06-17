@@ -4,6 +4,8 @@ permalink: "/research/"
 layout: page
 ---
 
+[中文](/_cnposts/research_cn.md)
+
 ## About me
 
 Master of Information System Management  
