@@ -1,10 +1,10 @@
 ---
 title: "Research"
-permalink: "/research/"
+permalink: "/research_en/"
 layout: page
 ---
 
-[中文](/cnposts/research_cn.md)
+[中文](/_research/research_cn.md)
 
 ## About me
 
