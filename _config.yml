@@ -12,14 +12,18 @@ date_format: "%B %d, %Y"
 
 show_excerpts: true        # show article excerpts on the home page
 show_frame: true           # adds a gray frame to the site
-show_sidebar: true        # show a sidebar instead of the usual header
+show_sidebar: false        # show a sidebar instead of the usual header
 minimal: false             # use a dark header
+
+# Subfolders
+include:
+  - ['_research']
 
 # Menu
 
 navigation:                # accepts {file, title, url, icon, sidebaricon}
   - {title: "Home", file: "index.html"}
-  - {title: "Research", file: "/research/research_en.md"}
+  - {title: "Research", file: "/_research/research_en.md"}
   - {title: "About", file: "About.md"}
 
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
@@ -34,5 +38,3 @@ comments:
 plugins:
  - jekyll-feed
 
-include:
-  - ['research']
