@@ -1,7 +1,6 @@
 ---
 title: "Research"
 layout: page
-permalink: /Research/
 ---
 
 [中文](/_research/research_cn.md)
