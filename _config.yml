@@ -22,7 +22,7 @@ include:
 # Menu
 
 navigation:                # accepts {file, title, url, icon, sidebaricon}
-  - {title: "Home", file: "index.html"}
+  #- {title: "Home", file: "index.html"}
   - {title: "Research", file: "Research.md"}
   - {title: "Archive", file: "archive.html"}
   - {title: "About", file: "About.md"}
