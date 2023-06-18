@@ -1,9 +1,9 @@
 ---
 title: "学术研究"
-layout: page
+layout: post
 ---
 
-[English](/_research/research_en.md)
+<!-- [English](/_research/research_en.md) --> 
 
 ## About me
 
