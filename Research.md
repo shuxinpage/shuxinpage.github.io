@@ -3,8 +3,6 @@ title: "Research"
 layout: page
 ---
 
-[中文](/_research/2023-06-12-resume-cn.md)
-
 ## About me
 
 *Master of Information System Management*
