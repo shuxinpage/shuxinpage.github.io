@@ -5,7 +5,7 @@ layout: page
 
 ## About me
 
-*Master of Information System Management*
+*Master of Information System Management*  
 &  
 *Master of Engineering Management*
 - WUSTL
