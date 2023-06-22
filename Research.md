@@ -24,4 +24,4 @@ layout: page
 
 ## CV
 
-Here is a PDF version of [*Peiqi Guo CV 2023 updated*](/_files/Peiqi%20Guo%20CV%202023upate.pdf)
+Here is a PDF version of [*Peiqi Guo CV 2023 updated*](/Peiqi%20Guo%20CV%202023upate.pdf)
