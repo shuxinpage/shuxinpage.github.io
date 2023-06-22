@@ -18,6 +18,7 @@ minimal: false             # use a dark header
 # Subfolders
 include:
   - ['_research']
+  - ['_files']
 
 # Menu
 
