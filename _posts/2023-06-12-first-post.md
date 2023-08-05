@@ -9,4 +9,4 @@ layout: post
 
 some text and [here is possible to download the file in PDF][1]
 
-[1]:{{ site.url }}shuxinpage.github.io/_files/test.jpg
+[1]:{{ https://shuxinpage.github.io }}/_files/test.jpg
