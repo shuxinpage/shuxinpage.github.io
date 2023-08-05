@@ -7,3 +7,6 @@ layout: post
 
 若朴若谷，自强不息
 
+some text and [here is possible to download the file in PDF][1]
+
+[1]:{{ site.url }}shuxinpage.github.io/_files/test.jpg
