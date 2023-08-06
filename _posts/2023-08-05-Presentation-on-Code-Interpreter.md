@@ -10,13 +10,12 @@ layout: post
 Dear all,
 
 Thank you all for attending today's presentation. I hope you enjoy it.
-
 Below is the archive file for today's presentation materials.
+You are more than welcome contact with any further questions.  
 
-You are more than welcome contact with any further questions.
+Best regards,  
 
-Best regards,
-Peiqi
+Peiqi  
 
 Download Link: [Code Interpreter Tutorial Presentation Materials][1]
 
