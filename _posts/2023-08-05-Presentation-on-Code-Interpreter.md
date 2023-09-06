@@ -1,6 +1,7 @@
 ---
 title: "Tutorial Presentation on GPT-4 Code Interpreter by Peiqi Guo"
 layout: post
+permalink: /presentation-on-code-interpreter/
 ---
 
 > I will translate this presentation into markdown version and upload to this post site.
