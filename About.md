@@ -28,3 +28,9 @@ I will write down and share my thoughts with friends all over the world.
 Life is long, but never stop learning.
 
 Best Regards.
+
+![Lake View](/assets/images/img_01_LakeView.jpeg)
+
+> 📷
+> 美国大提顿国家公园Jackson Lake湖畔
+> 2023年8月21日
