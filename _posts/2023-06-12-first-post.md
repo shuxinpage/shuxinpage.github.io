@@ -5,4 +5,6 @@ layout: post
 
 求知若渴，虚心若愚
 
-若朴若谷，自强不息
+若朴若谷，自强不息   
+
+![Lake View](/assets/images/img_01_LakeView.jpeg)
