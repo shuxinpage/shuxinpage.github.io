@@ -19,6 +19,8 @@ fatal: Authentication failed for
 
 经过搜索后发现可能与github开启了Duo Authentication，即两步验证有关。后续将尝试通过获取github token，并给vscode授权的方式解决。
 
+<!--more-->
+
 ## 解决方法
 
 如果已打开2FA Authentication，可通过以下方式解决。（如果没打开，那就打开2FA Authentication吧，百利无一害）
