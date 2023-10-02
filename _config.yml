@@ -5,7 +5,7 @@ description:
   Theme Powered By <a href="https://github.com/niklasbuschmann/contrast"><i>Jekyll Theme Contrast</i></a>
 permalink: date
 lang: "en"
-excerpt_separator: ""
+excerpt_separator: "\n"
 date_format: "%B %d, %Y"
 
 # Layout
