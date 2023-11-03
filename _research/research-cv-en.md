@@ -1,10 +1,7 @@
 ---
 title: "CV_en"
 layout: page
-permalink: "/research/"
 ---
-
-## CV
 
 Here is a PDF version of [*Peiqi Guo CV 2023 updated*](/assets/files//Peiqi%20Guo%20CV%202023upate.pdf)
 

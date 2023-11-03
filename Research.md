@@ -3,39 +3,15 @@ title: "Research"
 layout: page
 ---
 
-[Link to CV](_research/research-cv-en.md)
+
 
 ## CV
 
-Here is a PDF version of [*Peiqi Guo CV 2023 updated*](/assets/files//Peiqi%20Guo%20CV%202023upate.pdf)
+Detail Pages for Curriculum Vitae](_research/research-cv-en.md)
 
-## About me
+Here is most recent PDF version of [*Peiqi Guo Academic CV*](/assets/files//Peiqi%20Guo%20CV%202023upate.pdf)
 
-*Master of Information System Management*  
-&  
-*Master of Engineering Management*
-- WUSTL
-- Expected Graduate: December, 2023
+## Recent Project
 
-*B.S. in Cognitive Science*
-*with Minor in Philosophy*
-- UC Davis
-- 2021
-
-## Reserach Interests
-
-- AI's Application in Real World:
-    - Health Informatics
-    - Health & Medical Science
-- Information Systems Management
-- Cognitive Science & Brain Science
-
-## Working Experience
-
-Product Manager - AIOps & Cloud
-@ [Lenovo](https://xcloud.lenovo.com.cn/zh-cn/), Beijing
-01/2022 - 07/2022
-
-Product Manager - Pharmaceutical Compliance Consulting
-@ [ShilinX](https://www.shilinx.com), Beijing
-09/2021 - 11/2021
+1. AI in biomarkers extraction
+2. AI and effects of Warning Labels
