@@ -1,6 +1,7 @@
 ---
-title: "Research"
+title: "CV_en"
 layout: page
+permalink: "/research/"
 ---
 
 ## CV
