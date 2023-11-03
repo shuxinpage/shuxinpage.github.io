@@ -21,10 +21,13 @@ Here is a PDF version of [*Peiqi Guo CV 2023 updated*](/assets/files//Peiqi%20Gu
 ## Reserach Interests
 
 - AI's Application in Real World:
+    - Health Policy
     - Health Informatics
     - Health & Medical Science
-- Information Systems Management
-- Cognitive Science & Brain Science
+
+- Personal Side Interests:
+    - Information Systems Management
+    - Cognitive Science & Brain Science
 
 ## Working Experience
 
