@@ -16,7 +16,7 @@ show_sidebar: false        # show a sidebar instead of the usual header
 minimal: false             # use a dark header
 
 # Subfolders
-include: [_research , _files]
+include: [_research , _files, _projectbutterfly]
 
 # Menu
 
