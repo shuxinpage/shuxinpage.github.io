@@ -6,6 +6,8 @@ tag: Geek
 
 In this post, I would like to record a practice of installing Meta's Llama2 LLM on my Macbook Pro. As a reference or tutorial for future usage.
 
+<!--more-->
+
 ---
 
 ## Prerequisite & Environment
