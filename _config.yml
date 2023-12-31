@@ -22,7 +22,7 @@ include: [_research , _files, _projectbutterfly]
 
 navigation:                # accepts {file, title, url, icon, sidebaricon}
   #- {title: "Home", file: "index.html"}
-  - {title: "Research", file: "Research.md"}
+  #- {title: "Research", file: "Research.md"}
   - {title: "Blog", file: "archive.html"}
   - {title: "Life", file: "Life.md"}
   - {title: "About", file: "About.md"}
