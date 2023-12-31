@@ -28,7 +28,7 @@ navigation:                # accepts {file, title, url, icon, sidebaricon}
   - {title: "About", file: "About.md"}
 
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
-  - {title: Mail, icon: envelope, url: "mailto:guopeiqicharles@foxmail.com"}
+  - {title: Mail, icon: envelope, url: "mailto:blog@shuxinpage.com"}
   - {title: Github, icon: github, url: "https://github.com/shuxinpage"}
   #- {title: Subscribe, icon: rss, url: "/feed.xml"}
 
