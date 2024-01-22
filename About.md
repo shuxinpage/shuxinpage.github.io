@@ -31,6 +31,6 @@ Best Regards.
 
 ![Lake View](/assets/images/img_01_LakeView.jpeg)
 
-> 拍摄于   
+> 📷摄于   
 > 美国大提顿国家公园Jackson Lake湖畔   
 > 2023年8月21日   
