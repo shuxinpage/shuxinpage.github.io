@@ -21,7 +21,7 @@ layout: page
 
 ## About this website
 
-This website is create by Page Guo.  
+This website is create by Shuxin.  
 
 I will write down and share my thoughts with friends all over the world.
 
